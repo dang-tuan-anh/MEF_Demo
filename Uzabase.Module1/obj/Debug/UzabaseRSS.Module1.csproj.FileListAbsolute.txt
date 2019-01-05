@@ -1,0 +1,5 @@
+c:\users\tuan anh\documents\visual studio 2015\Projects\UzabaseRSS\UzabaseRSS\bin\Debug\UzabaseRSS.Module1.dll
+c:\users\tuan anh\documents\visual studio 2015\Projects\UzabaseRSS\UzabaseRSS\bin\Debug\UzabaseRSS.Module1.pdb
+c:\users\tuan anh\documents\visual studio 2015\Projects\UzabaseRSS\UzabaseRSS.Module1\obj\Debug\UzabaseRSS.Module1.csprojResolveAssemblyReference.cache
+c:\users\tuan anh\documents\visual studio 2015\Projects\UzabaseRSS\UzabaseRSS.Module1\obj\Debug\UzabaseRSS.Module1.dll
+c:\users\tuan anh\documents\visual studio 2015\Projects\UzabaseRSS\UzabaseRSS.Module1\obj\Debug\UzabaseRSS.Module1.pdb

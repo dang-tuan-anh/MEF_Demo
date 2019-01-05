@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzabase.Main", "Uzabase.Main\Uzabase.Main.csproj", "{8499C634-E598-4877-A47A-699C023C9786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzabase.Module1", "Uzabase.Module1\Uzabase.Module1.csproj", "{A4E81E28-31B4-4689-958F-0B3152F28087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzabase.RSSConversion", "Uzabase.RSSConversion\Uzabase.RSSConversion.csproj", "{B2CDA698-D098-4D9B-89DA-DA8B9F0BB8DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8499C634-E598-4877-A47A-699C023C9786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8499C634-E598-4877-A47A-699C023C9786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8499C634-E598-4877-A47A-699C023C9786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8499C634-E598-4877-A47A-699C023C9786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E81E28-31B4-4689-958F-0B3152F28087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E81E28-31B4-4689-958F-0B3152F28087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E81E28-31B4-4689-958F-0B3152F28087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E81E28-31B4-4689-958F-0B3152F28087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CDA698-D098-4D9B-89DA-DA8B9F0BB8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CDA698-D098-4D9B-89DA-DA8B9F0BB8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CDA698-D098-4D9B-89DA-DA8B9F0BB8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CDA698-D098-4D9B-89DA-DA8B9F0BB8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

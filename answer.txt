@@ -1,0 +1,18 @@
+【A.1】
+The most satisfying task in my software development life is creating a product of my company, which makes high values for user and bring many profits for our company. Another satisfying task is building and managing a team which can work independently even after I leave the project.
+The most difficult work (actually not a task) in my software development life is convincing Japanese customers accept/make decisions. 
+
+【A.2】
+About programming language, I found that C# is a powerful and efficient OOP language in recent 10 years.
+I started with Java 10 years ago, but after many projects, I feel that Java is now behind the .NET.
+About application design technique, I see that IoC (Inversion of Control) is a very useful design technique.
+It allows the application extensible easily to adapt new requirements without impacting the current source code.
+So I used this technique for answer of the 【Q.3】
+About OSS, we recently had some projects involving in NoSQL database like Elasticsearch. It is a cheap solution for large scale, distributed database.
+
+【A.3】
+In the demo application, I created 3 projects and used log4net for output to console and file so far.
+・ Uzabase.Main: the main application which only responds for loading modules.
+・ Uzabase.Module1: the module which is plugged into main application.
+If there is a new requirement (for ex, multi RSS inputs), we have only to create new project and implement similar as this module with arbitrary parameter specified in MainApp.Input (type string[]).
+・ Uzabase.RSSConversion: the library implements the requirement of RSS conversion excluding the word "NewsPicks" (case sensitive) from input and can be reusable.

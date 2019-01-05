@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6F4BE2D7-BF7E-47D5-A69F-01CBF191A60C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LogApplication/Form1.cs">
+    <Files>
+      <File FileName="LogApplication/MyApp.cs" Line="1" Column="1" />
+      <File FileName="LogApplication/Form1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LogApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

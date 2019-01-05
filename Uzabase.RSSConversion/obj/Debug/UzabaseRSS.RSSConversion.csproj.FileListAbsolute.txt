@@ -1,0 +1,7 @@
+c:\users\tuan anh\documents\visual studio 2015\Projects\UzabaseRSS\UzabaseRSS.RSSConversion\bin\Debug\UzabaseRSS.RSSConversion.dll
+c:\users\tuan anh\documents\visual studio 2015\Projects\UzabaseRSS\UzabaseRSS.RSSConversion\bin\Debug\UzabaseRSS.RSSConversion.pdb
+c:\users\tuan anh\documents\visual studio 2015\Projects\UzabaseRSS\UzabaseRSS\bin\Debug\UzabaseRSS.RSSConversion.dll
+c:\users\tuan anh\documents\visual studio 2015\Projects\UzabaseRSS\UzabaseRSS\bin\Debug\UzabaseRSS.RSSConversion.pdb
+c:\users\tuan anh\documents\visual studio 2015\Projects\UzabaseRSS\UzabaseRSS.RSSConversion\obj\Debug\UzabaseRSS.RSSConversion.dll
+c:\users\tuan anh\documents\visual studio 2015\Projects\UzabaseRSS\UzabaseRSS.RSSConversion\obj\Debug\UzabaseRSS.RSSConversion.pdb
+c:\users\tuan anh\documents\visual studio 2015\Projects\UzabaseRSS\UzabaseRSS.RSSConversion\obj\Debug\UzabaseRSS.RSSConversion.csprojResolveAssemblyReference.cache
